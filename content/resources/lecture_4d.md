@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: this resource contains information related to vibrations in solids.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-730-physics-for-solid-state-applications-spring-2003/9d9c810dbeecefef530e788777cbb5f9_lecture_4d.pdf
+file: /media/courses/6-730-physics-for-solid-state-applications-spring-2003/9d9c810dbeecefef530e788777cbb5f9_lecture_4d.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_4d.pdf
 uid: 9d9c810d-beec-efef-530e-788777cbb5f9

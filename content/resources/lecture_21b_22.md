@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information related to fermi surfaces, electrons
   and holes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-730-physics-for-solid-state-applications-spring-2003/d3ebfef7b40dedc47a42e286238400d2_lecture_21b_22.pdf
+file: /media/courses/6-730-physics-for-solid-state-applications-spring-2003/d3ebfef7b40dedc47a42e286238400d2_lecture_21b_22.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_21b_22.pdf
 uid: d3ebfef7-b40d-edc4-7a42-e286238400d2

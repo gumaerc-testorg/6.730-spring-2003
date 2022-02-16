@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: '?Real? Semiconductor Project: GaAs'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-730-physics-for-solid-state-applications-spring-2003/0eaf19b6f8c6f576cb63f79083727d1a_ProjP31.pdf
+file: /media/courses/6-730-physics-for-solid-state-applications-spring-2003/0eaf19b6f8c6f576cb63f79083727d1a_ProjP31.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: ProjP31.pdf
 uid: 0eaf19b6-f8c6-f576-cb63-f79083727d1a

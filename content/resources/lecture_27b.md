@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-730-physics-for-solid-state-applications-spring-2003/5b96b61fa8e79d9c426d1b331c023af7_lecture_27b.pdf
+file: /media/courses/6-730-physics-for-solid-state-applications-spring-2003/5b96b61fa8e79d9c426d1b331c023af7_lecture_27b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_27b.pdf
 uid: 5b96b61f-a8e7-9d9c-426d-1b331c023af7
