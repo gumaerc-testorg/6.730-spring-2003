@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ?REAL? SEMICONDUCTOR PROJECT
-file: /media/courses/6-730-physics-for-solid-state-applications-spring-2003/70b4f70acbbee84ac359852ce54fcd13_6730Project.pdf
+file: /courses/6-730-physics-for-solid-state-applications-spring-2003/70b4f70acbbee84ac359852ce54fcd13_6730Project.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 6730Project.pdf
 uid: 70b4f70a-cbbe-e84a-c359-852ce54fcd13
 ---
+?REAL? SEMICONDUCTOR PROJECT
+

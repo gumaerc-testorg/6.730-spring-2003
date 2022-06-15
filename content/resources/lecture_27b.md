@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-730-physics-for-solid-state-applications-spring-2003/5b96b61fa8e79d9c426d1b331c023af7_lecture_27b.pdf
+file: /courses/6-730-physics-for-solid-state-applications-spring-2003/5b96b61fa8e79d9c426d1b331c023af7_lecture_27b.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to metal as a free electron
   gas.
-file: /media/courses/6-730-physics-for-solid-state-applications-spring-2003/34f62c18a645ac9d3773fdff679c5378_lecture_3d.pdf
+file: /courses/6-730-physics-for-solid-state-applications-spring-2003/34f62c18a645ac9d3773fdff679c5378_lecture_3d.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lecture_3d.pdf
 uid: 34f62c18-a645-ac9d-3773-fdff679c5378
 ---
+This resource contains information related to metal as a free electron gas.
+

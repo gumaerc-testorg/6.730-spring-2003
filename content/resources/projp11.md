@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '?Real? Semiconductor Project: GaAs'
-file: /media/courses/6-730-physics-for-solid-state-applications-spring-2003/4ecdb55241bd337c6f8cf54c4afac620_ProjP11.pdf
+file: /courses/6-730-physics-for-solid-state-applications-spring-2003/4ecdb55241bd337c6f8cf54c4afac620_ProjP11.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: ProjP11.pdf
 uid: 4ecdb552-41bd-337c-6f8c-f54c4afac620
 ---
+?Real? Semiconductor Project: GaAs
+
