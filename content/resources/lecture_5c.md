@@ -6,6 +6,7 @@ file: /courses/6-730-physics-for-solid-state-applications-spring-2003/d035e822c7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_5c.pdf
 uid: d035e822-c71c-0a11-8b1c-9c9b15a599d9
 ---
 This resource contains information related to specific heat of lattice waves.
-

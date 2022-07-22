@@ -6,6 +6,7 @@ file: /courses/6-730-physics-for-solid-state-applications-spring-2003/333aadd4c8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_8c.pdf
 uid: 333aadd4-c8c3-174f-76ef-6819f846ddc1
 ---
 This resource contains information related to lattice waves in 1D monatomic crystals.
-

@@ -5,6 +5,7 @@ file: /courses/6-730-physics-for-solid-state-applications-spring-2003/9d9c810dbe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_4d.pdf
 uid: 9d9c810d-beec-efef-530e-788777cbb5f9
 ---
 this resource contains information related to vibrations in solids.
-

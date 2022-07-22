@@ -6,6 +6,7 @@ file: /courses/6-730-physics-for-solid-state-applications-spring-2003/2651d17943
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_18d.pdf
 uid: 2651d179-43a4-73d2-71bf-ac9c275671a1
 ---
 This resource contains information related to momentum, kp hamiltonian, and velocity of electrons in bloch states.
-

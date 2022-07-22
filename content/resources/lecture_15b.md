@@ -6,6 +6,7 @@ file: /courses/6-730-physics-for-solid-state-applications-spring-2003/9ab1eb411d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_15b.pdf
 uid: 9ab1eb41-1d74-4eeb-83cd-8eec917d938f
 ---
 This resource contains information related to 2d tight binding, 3d tight binding, semiconductore fermi energy and silicon bandstructure.
-

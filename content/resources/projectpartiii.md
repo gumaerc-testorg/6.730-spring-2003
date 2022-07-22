@@ -5,6 +5,7 @@ file: /courses/6-730-physics-for-solid-state-applications-spring-2003/13400f03d6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ProjectPartIII.pdf
 uid: 13400f03-d67c-8a38-e0a5-11b00a28a402
 ---
 "Real" Semiconductor Project, Part III: Electronic Band Structure
-

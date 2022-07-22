@@ -6,6 +6,7 @@ file: /courses/6-730-physics-for-solid-state-applications-spring-2003/34f62c18a6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_3d.pdf
 uid: 34f62c18-a645-ac9d-3773-fdff679c5378
 ---
 This resource contains information related to metal as a free electron gas.
-

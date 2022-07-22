@@ -6,6 +6,7 @@ file: /courses/6-730-physics-for-solid-state-applications-spring-2003/40ca8dbb32
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_25b.pdf
 uid: 40ca8dbb-32de-da87-7f06-f8f329b04cc4
 ---
 This resource contains information related to chemical potential and non-equilibrium.
-

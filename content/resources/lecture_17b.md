@@ -6,6 +6,7 @@ file: /courses/6-730-physics-for-solid-state-applications-spring-2003/e182b09963
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_17b.pdf
 uid: e182b099-6334-c394-ec34-d67dbf414502
 ---
 This resource contains information related to free electron bands, bloch's theorem, and properties of bloch's functions.
-

@@ -6,6 +6,7 @@ file: /courses/6-730-physics-for-solid-state-applications-spring-2003/ad5f1d73a5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_19f.pdf
 uid: ad5f1d73-a5bb-0b2c-4bad-ceb05c972377
 ---
 This resource contains information related to transalation operator, electronic wavepackets and effective mass theorem.
-
