@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to specific heat of lattice
   waves.
 file: /courses/6-730-physics-for-solid-state-applications-spring-2003/d035e822c71c0a118b1c9c9b15a599d9_lecture_5c.pdf
+file_size: 257812
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
