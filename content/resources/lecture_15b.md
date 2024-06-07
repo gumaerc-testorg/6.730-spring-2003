@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to 2d tight binding, 3d tight
   binding, semiconductore fermi energy and silicon bandstructure.
 file: /courses/6-730-physics-for-solid-state-applications-spring-2003/9ab1eb411d744eeb83cd8eec917d938f_lecture_15b.pdf
+file_size: 3062599
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource contains information related to lattice waves, brillo
   zone, dispersin relations, electronic bandstructure calculations, and tight binding
   method for 1d crystals.
 file: /courses/6-730-physics-for-solid-state-applications-spring-2003/9c02b9656da9914bf6a4bb9f1b663a05_lecture_12c.pdf
+file_size: 418951
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
