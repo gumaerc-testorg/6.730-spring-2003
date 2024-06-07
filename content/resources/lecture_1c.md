@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to molecules, models of solids,
   lattice, signgle electron transport and electron scattering.
 file: /courses/6-730-physics-for-solid-state-applications-spring-2003/d72bc5fad1795d65844ca9832564250b_lecture_1c.pdf
+file_size: 302223
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

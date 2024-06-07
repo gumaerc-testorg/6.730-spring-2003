@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to LCAO estimation and electron-phonon
   scattering.
 file: /courses/6-730-physics-for-solid-state-applications-spring-2003/ab1f8e1036e814ac14c58209bc275ca5_lecture_28c.pdf
+file_size: 283496
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
