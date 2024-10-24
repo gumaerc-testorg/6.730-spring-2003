@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information relaetd to vibrational and rotational
   states in hydrogen.
-file: /courses/6-730-physics-for-solid-state-applications-spring-2003/3aff1f92afb2cbd9d489ce3ee1d60c68_lecture_2b.pdf
+file: /ol-ocw-studio-app/courses/6-730-physics-for-solid-state-applications-spring-2003/3aff1f92afb2cbd9d489ce3ee1d60c68_lecture_2b.pdf
 file_size: 368838
 file_type: application/pdf
 learning_resource_types:

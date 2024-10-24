@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ?REAL? SEMICONDUCTOR PROJECT
-file: /courses/6-730-physics-for-solid-state-applications-spring-2003/70b4f70acbbee84ac359852ce54fcd13_6730Project.pdf
+file: /ol-ocw-studio-app/courses/6-730-physics-for-solid-state-applications-spring-2003/70b4f70acbbee84ac359852ce54fcd13_6730Project.pdf
 file_size: 120629
 file_type: application/pdf
 learning_resource_types:
