@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to momentum, kp hamiltonian,
   and velocity of electrons in bloch states.
-file: /ol-ocw-studio-app/courses/6-730-physics-for-solid-state-applications-spring-2003/2651d17943a473d271bfac9c275671a1_lecture_18d.pdf
+file: /courses/6-730-physics-for-solid-state-applications-spring-2003/2651d17943a473d271bfac9c275671a1_lecture_18d.pdf
 file_size: 389691
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: this resource contains information related to vibrations in solids.
-file: /ol-ocw-studio-app/courses/6-730-physics-for-solid-state-applications-spring-2003/9d9c810dbeecefef530e788777cbb5f9_lecture_4d.pdf
+file: /courses/6-730-physics-for-solid-state-applications-spring-2003/9d9c810dbeecefef530e788777cbb5f9_lecture_4d.pdf
 file_size: 551014
 file_type: application/pdf
 learning_resource_types:
