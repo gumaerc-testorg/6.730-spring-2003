@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '?Real? Semiconductor Project: GaAs'
-file: /ol-ocw-studio-app/courses/6-730-physics-for-solid-state-applications-spring-2003/0eaf19b6f8c6f576cb63f79083727d1a_ProjP31.pdf
+file: /courses/6-730-physics-for-solid-state-applications-spring-2003/0eaf19b6f8c6f576cb63f79083727d1a_ProjP31.pdf
 file_size: 429439
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to transalation operator,
   electronic wavepackets and effective mass theorem.
-file: /ol-ocw-studio-app/courses/6-730-physics-for-solid-state-applications-spring-2003/ad5f1d73a5bb0b2c4badceb05c972377_lecture_19f.pdf
+file: /courses/6-730-physics-for-solid-state-applications-spring-2003/ad5f1d73a5bb0b2c4badceb05c972377_lecture_19f.pdf
 file_size: 278321
 file_type: application/pdf
 learning_resource_types:
