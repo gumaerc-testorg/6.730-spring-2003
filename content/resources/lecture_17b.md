@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to free electron bands, bloch's
   theorem, and properties of bloch's functions.
-file: /courses/6-730-physics-for-solid-state-applications-spring-2003/e182b0996334c394ec34d67dbf414502_lecture_17b.pdf
+file: /ol-ocw-studio-app/courses/6-730-physics-for-solid-state-applications-spring-2003/e182b0996334c394ec34d67dbf414502_lecture_17b.pdf
 file_size: 260629
 file_type: application/pdf
 learning_resource_types:

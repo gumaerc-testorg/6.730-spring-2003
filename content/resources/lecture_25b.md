@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to chemical potential and
   non-equilibrium.
-file: /courses/6-730-physics-for-solid-state-applications-spring-2003/40ca8dbb32deda877f06f8f329b04cc4_lecture_25b.pdf
+file: /ol-ocw-studio-app/courses/6-730-physics-for-solid-state-applications-spring-2003/40ca8dbb32deda877f06f8f329b04cc4_lecture_25b.pdf
 file_size: 417215
 file_type: application/pdf
 learning_resource_types:

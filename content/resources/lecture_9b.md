@@ -2,7 +2,7 @@
 content_type: resource
 description: this resource contains information related to lattice waves in 1D with
   diatmomic basis.
-file: /courses/6-730-physics-for-solid-state-applications-spring-2003/fd53cea9498e2d6361a4c287fe1deee6_lecture_9b.pdf
+file: /ol-ocw-studio-app/courses/6-730-physics-for-solid-state-applications-spring-2003/fd53cea9498e2d6361a4c287fe1deee6_lecture_9b.pdf
 file_size: 519057
 file_type: application/pdf
 learning_resource_types:

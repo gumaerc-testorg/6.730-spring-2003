@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to lattice waves in 1D monatomic
   crystals.
-file: /courses/6-730-physics-for-solid-state-applications-spring-2003/333aadd4c8c3174f76ef6819f846ddc1_lecture_8c.pdf
+file: /ol-ocw-studio-app/courses/6-730-physics-for-solid-state-applications-spring-2003/333aadd4c8c3174f76ef6819f846ddc1_lecture_8c.pdf
 file_size: 525797
 file_type: application/pdf
 learning_resource_types:
